@@ -1,7 +1,0 @@
-# Original requirements
-matplotlib
-
-# Requirements for chinese poetry
-chinese-english-lookup
-pycccedict
-hanzipy
